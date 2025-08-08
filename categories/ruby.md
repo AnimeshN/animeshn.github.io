@@ -6,4 +6,4 @@ category: ruby
 
 # List of Ruby Programs for Fun
 
-- [Bubble Sort](/ruby/bubble_sort)
+- [Bubble Sort](/ruby_programs/bubble_sort)
