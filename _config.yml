@@ -1,5 +1,7 @@
 # Theme skin (choose: default, air, contrast, dark, dirt, mint, neon, plum, sunrise)
 minimal_mistakes_skin: "mint"
+highlighter: rouge
+markdown: kramdown
 
 # Enable search
 search: true
