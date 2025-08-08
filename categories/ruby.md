@@ -1,10 +1,9 @@
 ---
 layout: category
 title: Learning Ruby
-category: Ruby
+category: ruby
 ---
 
-# List of Ruby programs for fun
+# List of Ruby Programs for Fun
 
-
-- [Bubble Sort](ruby/bubble_sort.md)
+- [Bubble Sort](/ruby/bubble_sort)
