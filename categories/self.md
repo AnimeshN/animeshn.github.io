@@ -3,4 +3,4 @@ layout: default
 ---
 
 
-[Basic Definitions](self/definitions_by_AP.md)
+[Basic Definitions](understanding_self/definitions_by_AP.md)
