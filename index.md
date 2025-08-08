@@ -8,7 +8,7 @@ A space where I share my ideas, track my progress, and document projects I’m w
 ## Explore by Category
 
 - **[Learning Ruby](categories/ruby)**
-- **[Learning Self](categories/self)** 
+- **[Learning Self](categories/understanding_self)** 
 
 <!--
 - Books
