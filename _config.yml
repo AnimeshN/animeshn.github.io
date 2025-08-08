@@ -1,15 +1,36 @@
-title: My Personal Website
-email: nautiyalanimesh.gmail.com
-description: >-
-  My journey through music, exercise, coding, and more.
-baseurl: ""
-url: "https://animeshn.github.io"
-theme: jekyll-theme-tactile
+# Theme skin (choose: default, air, contrast, dark, dirt, mint, neon, plum, sunrise)
+minimal_mistakes_skin: "mint"
 
-# Build settings
-markdown: kramdown
+# Enable search
+search: true
 
-# Collections
-collections:
-  posts:
-    output: true
+# Show author profile in sidebar
+author:
+  name: "Animesh Nautiyal"
+  # avatar: "/assets/images/profile.jpg" # put your image here
+  bio: "MTech student at CTARA, IIT Bombay — documenting learning, projects, and progress."
+  location: "Mumbai, India"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/AnimeshN"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/nautiyalanimesh"
+
+# Show sidebar nav
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      toc: true
+      toc_sticky: true
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
