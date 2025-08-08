@@ -7,7 +7,9 @@ A space where I share my ideas, track my progress, and document projects I’m w
 
 ## Explore by Category
 
-- **[Learning Ruby](categories/ruby)** – Notes/ Algo for Ruby programming.
+- **[Learning Ruby](categories/ruby)**
+- **[Learning Self](categories/self)** 
+
 <!--
 - Books
 - Machine Learning
