@@ -1,37 +1,15 @@
-title: "Animesh Nautiyal"
-email: "nautiyalanimesh@gmail.com"
-description: "Personal site to document learning, projects, and progress — music, exercise, coding, climate, and more."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://animeshn.github.io" # replace with your GitHub Pages URL
-# Use the Minimal Mistakes remote theme (works with GitHub Pages)
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+title: My Personal Website
+email: your-email@example.com
+description: >-
+  My journey through music, exercise, coding, and more.
+baseurl: ""
+url: "https://your-username.github.io"
+theme: jekyll-theme-tactile
 
-# Author info (used by theme)
-author:
-  name: "Animesh Nautiyal"
-  email: "nautiyalanimesh@gmail.com"
-  bio: "MTech (Technology & Development) student at CTARA, IIT Bombay. Interested in health informatics, geospatial data, D3.js visualizations, flute practice, fitness, languages, and writing tutorials."
-
-# Navigation (you can add categories to the menu manually if you want)
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Categories"
-    url: "/categories/"
-
-# Defaults for posts
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "single"
-      author: "Animesh Nautiyal"
-
+# Build settings
 markdown: kramdown
-highlighter: rouge
+
+# Collections
+collections:
+  posts:
+    output: true

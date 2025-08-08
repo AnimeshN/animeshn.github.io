@@ -1,8 +1,16 @@
 ---
-layout: home
-title: "Home"
-permalink: /
+layout: default
+title: Home
 ---
-Welcome! This is a personal website built with **Jekyll** and the *Minimal Mistakes* theme.  
 
-Use the **Categories** page to explore topics. To add new content, drop a Markdown file into the `_posts/` folder (see README).
+# Welcome to My Personal Website
+
+This is where I share my thoughts, progress, and projects.
+
+## Categories
+
+- [Flute Progress](categories/flute)
+- [Exercise Log](categories/exercise)
+- [Climate Change](categories/climate-change)
+- [Languages](categories/languages)
+- [Coding & Tutorials](categories/coding-tutorials)
