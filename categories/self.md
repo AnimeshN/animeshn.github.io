@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Learning Self
+category: self
 ---
 
 
