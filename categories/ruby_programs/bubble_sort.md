@@ -1,3 +1,6 @@
+---
+layout: default
+---
 {% highlight ruby %}
 
 arr = [9,4,2,5,2,5,6,3,6,1]
