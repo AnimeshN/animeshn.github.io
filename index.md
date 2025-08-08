@@ -3,10 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome
-
-Welcome to my personal website — a space where I share my ideas, track my progress, and document projects I’m working on.  
-Here, you’ll find a mix of technical explorations, personal growth notes, and creative experiments.
+A space where I share my ideas, track my progress, and document projects I’m working on.  
 
 ## Explore by Category
 
