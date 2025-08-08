@@ -2,7 +2,7 @@
 layout: default
 ___
 
-<% highlight ruby%>
+{% highlight ruby%}
 arr = [23,67,98,1003,4001]
 
 
@@ -26,4 +26,4 @@ end
 
 puts binary_search(arr,1003)
 
-<% endhighlight%>
+{% endhighlight %}
