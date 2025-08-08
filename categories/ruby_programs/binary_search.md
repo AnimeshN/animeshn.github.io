@@ -1,6 +1,6 @@
 ---
 layout: default
-___
+---
 
 {% highlight ruby%}
 arr = [23,67,98,1003,4001]
