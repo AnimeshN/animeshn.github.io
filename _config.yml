@@ -4,7 +4,8 @@ description: "Personal site to document learning, projects, and progress — mus
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://animeshn.github.io" # replace with your GitHub Pages URL
 # Use the Minimal Mistakes remote theme (works with GitHub Pages)
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
