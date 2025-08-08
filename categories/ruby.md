@@ -8,3 +8,4 @@ category: ruby
 
 - [Bubble Sort](ruby_programs/bubble_sort)
 - [Binary Search](ruby_programs/binary_search)
+- [Insertion Sort](ruby_programs/insertion_sort)
